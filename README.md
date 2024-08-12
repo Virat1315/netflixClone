@@ -1,4 +1,4 @@
-# PK Netflix - Flutter Clone
+# Netflix - Flutter Clone
 
 A basic Netflix clone built with Flutter and powered by Appwrite.io for backend services.
 
